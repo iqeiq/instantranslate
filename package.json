@@ -18,6 +18,8 @@
     "electron-builder": "^20.8.1",
     "electron-webpack": "^2.0.1",
     "electron-webpack-ts": "^2.0.0",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
     "typescript": "^2.8.1",
     "webpack": "^4.4.1"
   },

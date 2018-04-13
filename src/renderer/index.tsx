@@ -2,6 +2,8 @@
 import { h, app, View, ActionsType } from "hyperapp"
 import { clipboard, ipcRenderer } from "electron"
 
+import './less/index.less'
+
 interface State {
   clipboard: string,
   translated: string,
