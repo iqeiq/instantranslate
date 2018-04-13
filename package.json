@@ -9,6 +9,7 @@
     "dist:dir": "yarn dist --dir -c.compression=store -c.mac.identity=null"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.6",
     "google-translate-api": "^2.3.0",
     "hyperapp": "^1.2.5",
     "source-map-support": "^0.5.4"
